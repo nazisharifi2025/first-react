@@ -1,5 +1,9 @@
+import Form from "../Commponints/Form"
 export default function Home(){
     return(
-        <div></div>
+        <div>
+        <Form/>
+        hi there
+        </div>
     )
 }
