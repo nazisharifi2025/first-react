@@ -1,12 +1,10 @@
 import Home from "./Pages/Home"
 
 
-function App() {
+export default function App() {
   return (
    <div>
     <Home/>
    </div>
   )
 }
-
-export default App
